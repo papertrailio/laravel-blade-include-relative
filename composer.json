@@ -1,5 +1,5 @@
 {
-    "name": "fukumori/laravel-blade-include-relative",
+    "name": "papertrailio/laravel-blade-include-relative",
     "description": "Allows to include blade template with relative path based on current view.",
     "keywords": ["laravel", "blade", "relative"],
     "license": "MIT",
@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "illuminate/view": "5.8.*"
+        "illuminate/view": "6.18.*"
     },
     "autoload": {
         "psr-4": {
@@ -19,7 +19,7 @@
     },
     "extra": {
         "branch-alias": {
-            "master": "5.8-dev"
+            "master": "6.18-dev"
         },
         "laravel": {
             "providers": [
